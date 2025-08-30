@@ -41,5 +41,5 @@ npm run dev
 Open http://localhost:3000 in your browser to view the site.
 
 🌐 Live Demo
-Check out the live version of the portfolio website here: https://priyanshupriyadarshi29.github.io/portfolio-website/
+Check out the live version of the portfolio website here: https://portfolio-website-mkzm.vercel.app/
 
